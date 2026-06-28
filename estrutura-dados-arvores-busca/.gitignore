@@ -1,0 +1,9 @@
+# Build artifacts
+*.o
+*.out
+*.exe
+pesquisa
+
+# OS / editor
+.DS_Store
+.vscode/
