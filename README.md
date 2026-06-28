@@ -2,7 +2,7 @@
 
 Implementação em C de três métodos de organização e busca de registros em arquivos: **acesso sequencial**, **Árvore B** e **Árvore B\***, com comparação de desempenho entre eles. Projeto da disciplina de Estrutura de Dados II (UFOP).
 
-> ⚠️Trabalho desenvolvido em grupo, como parte da disciplina.
+> Trabalho desenvolvido em grupo, como parte da disciplina.
 
 ## O que o programa faz
 
